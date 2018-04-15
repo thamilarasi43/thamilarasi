@@ -1,0 +1,5 @@
+x1=int(input("enter x1"))
+y=int(input("enter y"))
+z=int(input("enter z"))
+print("volume=",x1*y*z)
+print("surface area=",2*x1*y+2*x1*z+2*y*z)
